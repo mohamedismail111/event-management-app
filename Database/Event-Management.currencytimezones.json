@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "66fe48cddb0b11e1f6c232c5"
+  },
+  "currency": "INR",
+  "timezone": "Asia/Kolkata",
+  "createdAt": {
+    "$date": "2024-10-03T07:33:33.056Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T06:37:35.789Z"
+  },
+  "__v": 0
+}]

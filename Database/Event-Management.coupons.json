@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "66fe43ca5c771c2088381f03"
+  },
+  "image": "1728124162041_coupon-1.jpg",
+  "name": "coupon-1",
+  "code": "SAVE50",
+  "start_date": "2024-10-02",
+  "expiry_date": "2024-10-12",
+  "amount": 10,
+  "min_amount": 600,
+  "discount_type": "Percentage",
+  "usage_limit": 1,
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T07:12:10.866Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-07T10:08:07.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67110171288bdc9ff626a926"
+  },
+  "image": "1729167729404_images.jpeg",
+  "name": "50% OFF",
+  "code": "50OFF",
+  "start_date": "2024-10-17",
+  "expiry_date": "2024-10-31",
+  "amount": 50,
+  "min_amount": 100,
+  "discount_type": "Percentage",
+  "usage_limit": 1,
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-17T12:22:09.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T12:22:09.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671101e9288bdc9ff626a947"
+  },
+  "image": "1729167849378_images.jpeg",
+  "name": "Special Offer",
+  "code": "SPECIAL",
+  "start_date": "2024-10-17",
+  "expiry_date": "2024-10-31",
+  "amount": 40,
+  "min_amount": 100,
+  "discount_type": "Fixed",
+  "usage_limit": 10,
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-17T12:24:09.571Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T12:24:09.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67110234288bdc9ff626a960"
+  },
+  "image": "1729167923978_15-off.png",
+  "name": "15% OFF",
+  "code": "15OFF",
+  "start_date": "2024-10-17",
+  "expiry_date": "2024-12-31",
+  "amount": 15,
+  "min_amount": 100,
+  "discount_type": "Percentage",
+  "usage_limit": 15,
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-17T12:25:24.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T12:25:24.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67110262288bdc9ff626a973"
+  },
+  "image": "1729167970324_discount.jpg",
+  "name": "10 OFF",
+  "code": "10OFF",
+  "start_date": "2024-10-17",
+  "expiry_date": "2024-12-31",
+  "amount": 10,
+  "min_amount": 100,
+  "discount_type": "Fixed",
+  "usage_limit": 10,
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-17T12:26:10.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T12:26:10.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711027c288bdc9ff626a982"
+  },
+  "image": "1729167996632_discount.jpg",
+  "name": "15 OFF",
+  "code": "15OFF",
+  "start_date": "2024-10-17",
+  "expiry_date": "2024-12-31",
+  "amount": 15,
+  "min_amount": 100,
+  "discount_type": "Fixed",
+  "usage_limit": 15,
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-17T12:26:36.826Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T12:26:36.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67110298288bdc9ff626a991"
+  },
+  "image": "1729168024514_discount.jpg",
+  "name": "20 OFF",
+  "code": "20OFF",
+  "start_date": "2024-10-17",
+  "expiry_date": "2024-12-31",
+  "amount": 20,
+  "min_amount": 100,
+  "discount_type": "Fixed",
+  "usage_limit": 20,
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-17T12:27:04.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T12:27:04.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671102bb288bdc9ff626a9a0"
+  },
+  "image": "1729168059033_discount.jpg",
+  "name": "25 OFF",
+  "code": "25OFF",
+  "start_date": "2024-10-17",
+  "expiry_date": "2024-12-31",
+  "amount": 25,
+  "min_amount": 100,
+  "discount_type": "Fixed",
+  "usage_limit": 25,
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-17T12:27:39.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T12:27:39.226Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66fe33daaf187a0e0f9db211"
+  },
+  "avatar": "1728039047581_santa-1.png",
+  "sponsor": "Lisbon",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:04:10.446Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:50:47.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe33cfaf187a0e0f9db209"
+  },
+  "avatar": "1728037493407_Vector.png",
+  "sponsor": "Penta",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:03:59.366Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:24:53.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe33e3af187a0e0f9db218"
+  },
+  "avatar": "1728037633935_Group-(1).png",
+  "sponsor": "Malta",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:04:19.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:27:13.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe33ecaf187a0e0f9db21f"
+  },
+  "avatar": "1728039054016_mut-1.png",
+  "sponsor": "Scale",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:04:28.740Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:50:54.018Z"
+  },
+  "__v": 0
+}]

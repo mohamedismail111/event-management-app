@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "66ffba4e68e3331bd7cb5f94"
+  },
+  "name": "Trending",
+  "createdAt": {
+    "$date": "2024-10-04T09:50:06.865Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T09:50:06.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffba3e68e3331bd7cb5f8b"
+  },
+  "name": "Featured",
+  "createdAt": {
+    "$date": "2024-10-04T09:49:50.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T09:51:02.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffba5c68e3331bd7cb5f9d"
+  },
+  "name": "Popular",
+  "createdAt": {
+    "$date": "2024-10-04T09:50:20.134Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T09:50:20.134Z"
+  },
+  "__v": 0
+}]

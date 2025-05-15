@@ -1,0 +1,692 @@
+[{
+  "_id": {
+    "$oid": "67038cf461d5bd0f5e863877"
+  },
+  "avatar": "1738579900296_Alfonso-Ferro-Sin-titulo-II.jpg",
+  "event": "Art Expo Spring",
+  "categoryId": {
+    "$oid": "66ffc3f96c7587cad45aa138"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe3421af187a0e0f9db235"
+    },
+    {
+      "$oid": "66fe3442af187a0e0f9db24c"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33cfaf187a0e0f9db209"
+    },
+    {
+      "$oid": "66fe33ecaf187a0e0f9db21f"
+    }
+  ],
+  "date": "2025-10-22",
+  "time": "10:00 AM",
+  "price": 300,
+  "tax": 5,
+  "galleryImg": [],
+  "photo_link": "https://www.lipsum.com/",
+  "address": "One Great George Street, London",
+  "location": {
+    "latitude": 21.2029326,
+    "longitude": 72.8374716
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba4e68e3331bd7cb5f94"
+    },
+    {
+      "$oid": "66ffba3e68e3331bd7cb5f8b"
+    }
+  ],
+  "lastdate": "2025-10-21",
+  "totalSeat": 5,
+  "totalBookedTicket": 4,
+  "availableticket": 1,
+  "briefdescription": "Experience the finest art from emerging and established artists.",
+  "disclaimer": "<p>All sales are final.</p>",
+  "description": "<p>Art Expo Spring showcases a diverse range of artworks, including paintings, sculptures, and digital art. Meet the artists and explore the creative process behind each piece.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-07T07:25:40.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-26T05:46:06.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67038db161d5bd0f5e8638c1"
+  },
+  "avatar": "1728286129222_Rectangle-211.png",
+  "event": "Tech Summit 2024",
+  "categoryId": {
+    "$oid": "66fe49e6a586a63c81977fd1"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe3421af187a0e0f9db235"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33ecaf187a0e0f9db21f"
+    }
+  ],
+  "date": "2025-11-19",
+  "time": "9:00 AM",
+  "price": 400,
+  "tax": 5,
+  "galleryImg": [],
+  "photo_link": "https://www.lipsum.com/",
+  "address": "One Great George Street, London",
+  "location": {
+    "latitude": 21.2029326,
+    "longitude": 72.8374716
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba5c68e3331bd7cb5f9d"
+    }
+  ],
+  "lastdate": "2025-11-17",
+  "totalSeat": 5,
+  "totalBookedTicket": 2,
+  "availableticket": 3,
+  "briefdescription": "Join industry leaders and innovators at the premier tech summit.",
+  "disclaimer": "<p>No refunds after booking confirmation.</p>",
+  "description": "<p>Tech Summit 2024 is the leading conference for technology professionals. Engage in insightful panels, workshops, and networking sessions covering the latest trends in technology and innovation.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-07T07:28:49.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T21:34:23.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67038d4d61d5bd0f5e86389b"
+  },
+  "avatar": "1728286029742_Rectangle-411.png",
+  "event": "Film Festival 2024",
+  "categoryId": {
+    "$oid": "66ffc1a46c7587cad45aa007"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe344caf187a0e0f9db253"
+    },
+    {
+      "$oid": "66fe3442af187a0e0f9db24c"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33daaf187a0e0f9db211"
+    },
+    {
+      "$oid": "66fe33e3af187a0e0f9db218"
+    }
+  ],
+  "date": "2025-12-26",
+  "time": "9:00 PM",
+  "price": 200,
+  "tax": 5,
+  "galleryImg": [],
+  "photo_link": "https://www.lipsum.com/",
+  "address": "One Great George Street, London",
+  "location": {
+    "latitude": 21.2029326,
+    "longitude": 72.8374716
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba3e68e3331bd7cb5f8b"
+    }
+  ],
+  "lastdate": "2025-12-20",
+  "totalSeat": 5,
+  "totalBookedTicket": 5,
+  "availableticket": 0,
+  "briefdescription": "Experience the best of independent cinema at Film Festival 2024.",
+  "disclaimer": "<p>Tickets are non-transferable and non-refundable.</p>",
+  "description": "<p>Film Festival 2024 showcases a curated selection of independent films from emerging filmmakers. Attend premieres, engage in Q&amp;A sessions, and network with industry professionals.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-07T07:27:09.754Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T12:20:28.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67038e0a61d5bd0f5e8638e5"
+  },
+  "avatar": "1728286218227_Rectangle-411-(1).png",
+  "event": "Marathon 2024",
+  "categoryId": {
+    "$oid": "66fe34d1af187a0e0f9db286"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe3442af187a0e0f9db24c"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33e3af187a0e0f9db218"
+    }
+  ],
+  "date": "2025-11-17",
+  "time": "5:00 AM",
+  "price": 100,
+  "tax": 5,
+  "galleryImg": [],
+  "photo_link": "https://www.lipsum.com/",
+  "address": "One Great George Street, London",
+  "location": {
+    "latitude": 21.2029326,
+    "longitude": 72.8374716
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba5c68e3331bd7cb5f9d"
+    }
+  ],
+  "lastdate": "2025-11-13",
+  "totalSeat": 5,
+  "totalBookedTicket": 5,
+  "availableticket": 0,
+  "briefdescription": "Challenge yourself in the annual Marathon 2024.",
+  "disclaimer": "<p>Participants must be in good health. No refunds after registration.</p>",
+  "description": "<p>Marathon 2024 invites runners of all levels to participate in a scenic race through the heart of Speedville. Test your endurance, enjoy live music, and celebrate with fellow runners at the finish line.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-07T07:30:18.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T07:45:31.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67038c9661d5bd0f5e863851"
+  },
+  "avatar": "1728285846427_Image-(6).png",
+  "event": "Music Fiesta 2024",
+  "categoryId": {
+    "$oid": "66ffc1a46c7587cad45aa007"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe3438af187a0e0f9db245"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33e3af187a0e0f9db218"
+    }
+  ],
+  "date": "2025-12-09",
+  "time": "8:00 PM",
+  "price": 300,
+  "tax": 5,
+  "galleryImg": [],
+  "photo_link": "https://www.lipsum.com/",
+  "address": "One Great George Street, London",
+  "location": {
+    "latitude": 21.2029326,
+    "longitude": 72.8374716
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba4e68e3331bd7cb5f94"
+    }
+  ],
+  "lastdate": "2025-12-13",
+  "totalSeat": 5,
+  "totalBookedTicket": 4,
+  "availableticket": 1,
+  "briefdescription": "Join us for an evening of exhilarating music performances.",
+  "disclaimer": "<p>Tickets are non-refundable.</p>",
+  "description": "<p>Music Fiesta 2024 brings together top artists for a night of unforgettable performances. Enjoy a variety of genres and connect with fellow music enthusiasts.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-07T07:24:06.454Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T05:35:07.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c002288bdc9ff62695a8"
+  },
+  "avatar": "1728626689890_Something-in-the-Water-Festival2.jpg",
+  "event": "Something in the Water Festival",
+  "categoryId": {
+    "$oid": "66ffc1a46c7587cad45aa007"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe3438af187a0e0f9db245"
+    },
+    {
+      "$oid": "66fe344caf187a0e0f9db253"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33cfaf187a0e0f9db209"
+    }
+  ],
+  "date": "2025-12-24",
+  "time": "9:00 PM",
+  "price": 12,
+  "tax": 20,
+  "galleryImg": [
+    "1728626689893_Something-in-the-Water-Festival1.jpg",
+    "1728626689894_Something-in-the-Water-Festival6.jpg",
+    "1728626689895_Something-in-the-Water-Festival4.jpg",
+    "1728626689896_Something-in-the-Water-Festival5.jpg"
+  ],
+  "photo_link": "#",
+  "address": "1221 Walnut Hill Drive, Sharonville, Ohio(OH), 45241",
+  "location": {
+    "latitude": 37.3659979,
+    "longitude": -79.4494298
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba4e68e3331bd7cb5f94"
+    },
+    {
+      "$oid": "66ffba3e68e3331bd7cb5f8b"
+    }
+  ],
+  "lastdate": "2025-12-23",
+  "totalSeat": 500,
+  "totalBookedTicket": 89,
+  "availableticket": 411,
+  "briefdescription": "Our festival-focused partnership with SES made our mark for a summer music festival held right in the middle of the National Mall in Washington, DC. Our collective teams provided all audio & lighting for all four stages that saw acts like Pharrell, Justin Timberlake, Post Malone, Dave Matthew’s Band, Anderson Paak, Tyler the Creator and More!",
+  "disclaimer": "<p>Our festival-focused partnership with SES made our mark for a summer music festival held right in the middle of the National Mall in Washington, DC. Our collective teams provided all audio &amp; lighting for all four stages that saw acts like Pharrell, Justin Timberlake, Post Malone, Dave Matthew’s Band, Anderson Paak, Tyler the Creator and More!</p>",
+  "description": "<p>Our festival-focused partnership with SES made our mark for a summer music festival held right in the middle of the National Mall in Washington, DC. Our collective teams provided all audio &amp; lighting for all four stages that saw acts like Pharrell, Justin Timberlake, Post Malone, Dave Matthew’s Band, Anderson Paak, Tyler the Creator and More!</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-11T06:04:50.098Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-22T16:10:06.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c159288bdc9ff62695fb"
+  },
+  "avatar": "1728627033474_Mary-J-Blige-x-Pepsi-present-Strength-of-a-Woman-Festival.jpg",
+  "event": "Mary J Blige x Pepsi present Strength of a Woman Festival",
+  "categoryId": {
+    "$oid": "66fe49e6a586a63c81977fd1"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe342baf187a0e0f9db23d"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33daaf187a0e0f9db211"
+    }
+  ],
+  "date": "2025-11-30",
+  "time": "8:00 PM",
+  "price": 5,
+  "tax": 20,
+  "galleryImg": [
+    "1728627033474_Mary-J-Blige-x-Pepsi-present-Strength-of-a-Woman-Festival-3.jpg",
+    "1728627033475_Mary-J-Blige-x-Pepsi-present-Strength-of-a-Woman-Festival-1.jpg"
+  ],
+  "photo_link": "#",
+  "address": "182 Lemke Hollow, North Luther, ID 56827",
+  "location": {
+    "latitude": 38.2957114,
+    "longitude": -81.570812
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba3e68e3331bd7cb5f8b"
+    }
+  ],
+  "lastdate": "2025-11-29",
+  "totalSeat": 140,
+  "totalBookedTicket": 140,
+  "availableticket": 0,
+  "briefdescription": "Mary J Blige x Pepsi present Strength of a Woman Festival 2024\r\nThe 2nd Annual Strength of a Woman festival featured two nights of packed line-ups and complete production solutions by Music Matters.",
+  "disclaimer": "<p>Production included lighting, audio, video, staging, and rigging. The stage design was fully customized and featured over 900 LED panels.</p><p>Acts included Mary J Blige, Ciara, Jeezy, Lauryn Hill, Method Man, Busta Rhymes, Summer Walker and more</p>",
+  "description": "<p>Mary J. Blige brought her Strength of a Woman Festival to Atlanta that included a full line-up of artists at State Farm Arena. Music Matters provided all audio, lighting, and video for the show that included performances and appearances from MJB, Chaka Khan, Method Man, Usher, City Girls, and Ella Mai.</p><p>Arena shows offer a unique set of challenges for production including a same day load-in and load-out schedule for the crew. For this show, the lighting rig was also a custom design and different from your standard arena rig.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-11T06:10:33.673Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T12:09:56.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c1f4288bdc9ff626962d"
+  },
+  "avatar": "1728627188106_March-Madness-Shoot2.jpg",
+  "event": "March Madness Shoot",
+  "categoryId": {
+    "$oid": "66ffc3f96c7587cad45aa138"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe342baf187a0e0f9db23d"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33e3af187a0e0f9db218"
+    }
+  ],
+  "date": "2025-11-21",
+  "time": "8:00 PM",
+  "price": 6,
+  "tax": 20,
+  "galleryImg": [
+    "1728627188107_March-Madness-Shoot8.jpg",
+    "1728627188108_March-Madness-Shoot1.jpg",
+    "1728627188108_March-Madness-Shoot3.jpg",
+    "1728627188108_March-Madness-Shoot6.jpg",
+    "1728627188109_March-Madness-Shoot2.jpg"
+  ],
+  "photo_link": "#",
+  "address": "1221 Walnut Hill Drive, Sharonville, Ohio(OH), 45241",
+  "location": {
+    "latitude": 43.7343794,
+    "longitude": -122.0744127
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba3e68e3331bd7cb5f8b"
+    }
+  ],
+  "lastdate": "2025-11-20",
+  "totalSeat": 160,
+  "totalBookedTicket": 29,
+  "availableticket": 131,
+  "briefdescription": "Music Matters Productions (MMP) collaborated with Winter Films to provide production support for a March Madness commercial shoot in Atlanta, commissioned by ESPN. The project involved a fast-paced timeline with a collaborative design process to achieve the desired look and feel. With only a basic rendering provided by the client, MMP’s team worked closely with Winter Films to translate the vision into reality.",
+  "disclaimer": "<p>The project timeline was condensed, requiring one day for setup and one day for shooting in the studio. Despite the tight schedule, MMP delivered exceptional results, showcasing their expertise in audio, lighting, reflective staging, and video production. The team’s adaptability and efficiency ensured that they met the client’s tight deadline without compromising on quality.</p>",
+  "description": "<p>The project timeline was condensed, requiring one day for setup and one day for shooting in the studio. Despite the tight schedule, MMP delivered exceptional results, showcasing their expertise in audio, lighting, reflective staging, and video production. The team’s adaptability and efficiency ensured that they met the client’s tight deadline without compromising on quality.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-11T06:13:08.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T12:11:54.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c277288bdc9ff626965b"
+  },
+  "avatar": "1728627319052_7-Eleven-Experience-20235.jpg",
+  "event": "7-Eleven Experience 2024",
+  "categoryId": {
+    "$oid": "66fe34d1af187a0e0f9db286"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe3442af187a0e0f9db24c"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33e3af187a0e0f9db218"
+    },
+    {
+      "$oid": "66fe33ecaf187a0e0f9db21f"
+    }
+  ],
+  "date": "2025-12-07",
+  "time": "9:00 PM",
+  "price": 12,
+  "tax": 20,
+  "galleryImg": [
+    "1728627319052_7-Eleven-Experience-20234.jpg",
+    "1728627319053_7-Eleven-Experience-20233.jpg",
+    "1728627319070_7-Eleven-Experience-20232.jpg",
+    "1728627319070_7-Eleven-Experience-20231.jpg",
+    "1728627319071_7-Eleven-Experience-20237.jpg",
+    "1728627319071_7-Eleven-Experience-20236.jpg"
+  ],
+  "photo_link": "#",
+  "address": "182 Lemke Hollow, North Luther, ID 56827",
+  "location": {
+    "latitude": 38.2957114,
+    "longitude": -81.570812
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba3e68e3331bd7cb5f8b"
+    }
+  ],
+  "lastdate": "2025-12-06",
+  "totalSeat": 550,
+  "totalBookedTicket": 8,
+  "availableticket": 542,
+  "briefdescription": "The Music Matters team traveled to Vegas to design and construct an LED wall that boasted 1480 LED tiles, 3872 sq.ft.of wall with over 54 MILLION pixels. Production not only included the LED wall, but audio, lighting, live broadcast, customized LED wristbands for the audience, a 4000 balloon balloon drop, and more.",
+  "disclaimer": "<p>The Music Matters team traveled to Vegas to design and construct an LED wall that boasted 1480 LED tiles, 3872 sq.ft.of wall with over 54 MILLION pixels. Production not only included the LED wall, but audio, lighting, live broadcast, customized LED wristbands for the audience, a 4000 balloon balloon drop, and more.</p>",
+  "description": "<p>The Music Matters team traveled to Vegas to design and construct an LED wall that boasted 1480 LED tiles, 3872 sq.ft.of wall with over 54 MILLION pixels. Production not only included the LED wall, but audio, lighting, live broadcast, customized LED wristbands for the audience, a 4000 balloon balloon drop, and more.</p><p>13 trucks full of a lot of our newer inventory items made their way to Vegas, including GLP Shadowline LED Tape, Panasonic 10K Projectors, Panasonic UC4000 Cameras, and our disguise VX4 content servers.</p><p>The event included three days of general sessions &amp; and live entertainment showcase.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-11T06:15:19.268Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T12:26:55.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c312288bdc9ff626968d"
+  },
+  "avatar": "1728627474050_Suwannee-Hulaween1.jpg",
+  "event": "Suwannee Hulaween",
+  "categoryId": {
+    "$oid": "66fe49e6a586a63c81977fd1"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe3421af187a0e0f9db235"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33ecaf187a0e0f9db21f"
+    }
+  ],
+  "date": "2026-01-01",
+  "time": "5:00 PM",
+  "price": 10,
+  "tax": 20,
+  "galleryImg": [
+    "1728627474051_Suwannee-Hulaween6.jpg",
+    "1728627474052_Suwannee-Hulaween5.jpg",
+    "1728627474053_Suwannee-Hulaween4.jpg",
+    "1728627474054_Suwannee-Hulaween3.jpg",
+    "1728627474056_Suwannee-Hulaween2.jpg"
+  ],
+  "photo_link": "#",
+  "address": "182 Lemke Hollow, North Luther, ID 56827",
+  "location": {
+    "latitude": 38.2957114,
+    "longitude": -81.570812
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba3e68e3331bd7cb5f8b"
+    }
+  ],
+  "lastdate": "2025-12-31",
+  "totalSeat": 1100,
+  "totalBookedTicket": 8,
+  "availableticket": 1092,
+  "briefdescription": "The MMP crew packed up the RVs and headed to the annual Halloween weekend festival at Spirit of Suwannee Music Park where we joined forces with the creative greats from Phntm Labs to provide audio, lighting, and video for main stage.",
+  "disclaimer": "<p>The MMP crew packed up the RVs and headed to the annual Halloween weekend festival at Spirit of Suwannee Music Park where we joined forces with the creative greats from Phntm Labs to provide audio, lighting, and video for main stage.</p>",
+  "description": "<p>The MMP crew packed up the RVs and headed to the annual Halloween weekend festival at Spirit of Suwannee Music Park where we joined forces with the creative greats from Phntm Labs to provide audio, lighting, and video for main stage.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-11T06:17:54.251Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T22:59:31.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c38f288bdc9ff62696b7"
+  },
+  "avatar": "1728627599404_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG1.jpg",
+  "event": "Motley Crue & Def Leppard Stadium Tour (IMAG)",
+  "categoryId": {
+    "$oid": "66fe34d1af187a0e0f9db286"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe342baf187a0e0f9db23d"
+    },
+    {
+      "$oid": "66fe3442af187a0e0f9db24c"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33e3af187a0e0f9db218"
+    }
+  ],
+  "date": "2026-01-01",
+  "time": "5:00 PM",
+  "price": 10,
+  "tax": 20,
+  "galleryImg": [
+    "1728627599405_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG2.jpg",
+    "1728627599406_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG6.jpg",
+    "1728627599407_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG5.jpg",
+    "1728627599407_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG4.jpg",
+    "1728627599408_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG3.jpg"
+  ],
+  "photo_link": "#",
+  "address": "592 Coal Street, Altoona, Pennsylvania(PA), 16601",
+  "location": {
+    "latitude": 43.7343794,
+    "longitude": -79.4494298
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba3e68e3331bd7cb5f8b"
+    }
+  ],
+  "lastdate": "2025-12-31",
+  "totalSeat": 1500,
+  "totalBookedTicket": 0,
+  "availableticket": 1500,
+  "briefdescription": "The MMP team traveled the nation with dual 30’x50′ LED IMAG walls on a multi-city stadium tour with rock n’ roll legends Motley Crue & Def Leppard.",
+  "disclaimer": "<p>The MMP team traveled the nation with dual 30’x50′ LED IMAG walls on a multi-city stadium tour with rock n’ roll legends Motley Crue &amp; Def Leppard.</p>",
+  "description": "<p>The MMP team traveled the nation with dual 30’x50′ LED IMAG walls on a multi-city stadium tour with rock n’ roll legends Motley Crue &amp; Def Leppard.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-11T06:19:59.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T22:59:31.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67090bff288bdc9ff6269b4c"
+  },
+  "avatar": "1728646143436_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG1.jpg",
+  "event": "Motley Crue & Def Leppard Stadium Tour (IMAG)",
+  "categoryId": {
+    "$oid": "66fe34d1af187a0e0f9db286"
+  },
+  "organizerId": [
+    {
+      "$oid": "66fe3421af187a0e0f9db235"
+    },
+    {
+      "$oid": "66fe342baf187a0e0f9db23d"
+    }
+  ],
+  "sponsorId": [
+    {
+      "$oid": "66fe33cfaf187a0e0f9db209"
+    }
+  ],
+  "date": "2026-02-01",
+  "time": "5:00 PM",
+  "price": 10,
+  "tax": 20,
+  "galleryImg": [
+    "1728646143439_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG2.jpg",
+    "1728646143440_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG5.jpg",
+    "1728646143442_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG4.jpg",
+    "1728646143443_Motley-Crue-Def-Leppard-Stadium-Tour-IMAG3.jpg"
+  ],
+  "photo_link": "#",
+  "address": "182 Lemke Hollow, North Luther, ID 56827",
+  "location": {
+    "latitude": 38.2957114,
+    "longitude": -81.570812
+  },
+  "tagId": [
+    {
+      "$oid": "66ffba3e68e3331bd7cb5f8b"
+    }
+  ],
+  "lastdate": "2026-01-31",
+  "totalSeat": 1500,
+  "totalBookedTicket": 6,
+  "availableticket": 1494,
+  "briefdescription": "The MMP team traveled the nation with dual 30’x50′ LED IMAG walls on a multi-city stadium tour with rock n’ roll legends Motley Crue & Def Leppard.",
+  "disclaimer": "<p>The MMP team traveled the nation with dual 30’x50′ LED IMAG walls on a multi-city stadium tour with rock n’ roll legends Motley Crue &amp; Def Leppard.</p>",
+  "description": "<p>The MMP team traveled the nation with dual 30’x50′ LED IMAG walls on a multi-city stadium tour with rock n’ roll legends Motley Crue &amp; Def Leppard.</p>",
+  "status": "Publish",
+  "is_completed": "Upcoming",
+  "createdAt": {
+    "$date": "2024-10-11T11:29:03.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T01:25:23.793Z"
+  },
+  "__v": 0
+}]

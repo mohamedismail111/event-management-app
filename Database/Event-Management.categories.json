@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66ffc1a46c7587cad45aa007"
+  },
+  "avatar": "1728037284700_music-1.png",
+  "category": "Music",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-04T10:21:24.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:21:24.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe49e6a586a63c81977fd1"
+  },
+  "avatar": "1728037307585_Group.png",
+  "category": "Technology",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T07:38:14.243Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:36:20.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffc3f96c7587cad45aa138"
+  },
+  "avatar": "1728037881835_Group-(2).png",
+  "category": "Art",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-04T10:31:21.837Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:31:21.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe34d1af187a0e0f9db286"
+  },
+  "avatar": "1728037342003_airplane-1.png",
+  "category": "Tour",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:08:17.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:22:22.005Z"
+  },
+  "__v": 0
+}]

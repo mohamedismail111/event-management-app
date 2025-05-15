@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "66fe3438af187a0e0f9db245"
+  },
+  "avatar": "1727935544270_300-12.jpg",
+  "organizer": "Janie A. Patterson",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:05:44.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T06:32:56.142Z"
+  },
+  "__v": 0,
+  "email": "janie@gmail.com",
+  "password": "$2a$10$X6ab7cdN7A5D816aywkqYuhv5AJ4CRMw/8XBKVoS4cOclXGOpAo9W"
+},
+{
+  "_id": {
+    "$oid": "66fe3421af187a0e0f9db235"
+  },
+  "avatar": "1727935521738_300-9.jpg",
+  "organizer": "Jeffrey T. Dutton",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:05:21.740Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T06:33:08.744Z"
+  },
+  "__v": 0,
+  "email": "jeffrey@gmail.com",
+  "password": "$2a$10$X6ab7cdN7A5D816aywkqYuhv5AJ4CRMw/8XBKVoS4cOclXGOpAo9W"
+},
+{
+  "_id": {
+    "$oid": "66fe344caf187a0e0f9db253"
+  },
+  "avatar": "1727935564579_300-14.jpg",
+  "organizer": "Kelly S. Paulk",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:06:04.581Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T06:33:18.779Z"
+  },
+  "__v": 0,
+  "email": "kelly@gmail.com",
+  "password": "$2a$10$X6ab7cdN7A5D816aywkqYuhv5AJ4CRMw/8XBKVoS4cOclXGOpAo9W"
+},
+{
+  "_id": {
+    "$oid": "66fe342baf187a0e0f9db23d"
+  },
+  "avatar": "1727935531862_300-10.jpg",
+  "organizer": "Sarah A. Crawford",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:05:31.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T06:33:29.049Z"
+  },
+  "__v": 0,
+  "email": "sarah@gmail.com",
+  "password": "$2a$10$X6ab7cdN7A5D816aywkqYuhv5AJ4CRMw/8XBKVoS4cOclXGOpAo9W"
+},
+{
+  "_id": {
+    "$oid": "66fe3442af187a0e0f9db24c"
+  },
+  "avatar": "1727935554600_300-13.jpg",
+  "organizer": "David A. Franklin",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-03T06:05:54.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T06:33:37.079Z"
+  },
+  "__v": 0,
+  "email": "david@gmail.com",
+  "password": "$2a$10$X6ab7cdN7A5D816aywkqYuhv5AJ4CRMw/8XBKVoS4cOclXGOpAo9W"
+}]

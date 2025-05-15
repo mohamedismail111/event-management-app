@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "66fbde2288a76dd65d7ad854"
+  },
+  "avatar": "1728037735882_Group-33780.png",
+  "splash": "Create, Find and Join Your Circle Now!",
+  "description": "Events can also be used at instruction set level, where they interrupts.",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-01T11:33:54.917Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T11:17:41.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffc3906c7587cad45aa105"
+  },
+  "avatar": "1728037776878_Image.png",
+  "splash": "Participate In  Your Favourite Events!",
+  "description": "Events can also be used at instruction set level, where they interrupts.",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-04T10:29:36.894Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:29:36.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffc3af6c7587cad45aa11a"
+  },
+  "avatar": "1728037807281_Image-(1).png",
+  "splash": "Create, Find & Join to Event Now",
+  "description": "Events can also be used at instruction set level, where they interrupts.",
+  "status": "Publish",
+  "createdAt": {
+    "$date": "2024-10-04T10:30:07.288Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T10:30:07.288Z"
+  },
+  "__v": 0
+}]
