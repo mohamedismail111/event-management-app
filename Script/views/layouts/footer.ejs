@@ -1,0 +1,131 @@
+<script>
+  var hostUrl = "assets/";
+  var BASE_URL = "<%= process.env.BASE_URL %>";
+</script>
+
+<!--begin::Global Javascript Bundle(mandatory for all pages)-->
+<script src="assets/plugins/global/plugins.bundle.js"></script>
+<script src="assets/js/scripts.bundle.js"></script>
+<!--end::Global Javascript Bundle-->
+
+<!--begin::Vendors Javascript-->
+<script src="assets/plugins/custom/datatables/datatables.bundle.js"></script>
+<script src="assets/plugins/custom/formrepeater/formrepeater.bundle.js"></script>
+<script src="assets/plugins/custom/ckeditor/ckeditor-classic.bundle.js"></script>
+<script src="assets/plugins/custom/fslightbox/fslightbox.bundle.js"></script>
+<!--end::Vendors Javascript-->
+
+<!--begin::Custom Javascript-->
+<script src="assets/js/custom/listing.js"></script>
+<script src="assets/js/custom/ckEditor.js"></script>
+<!--end::Custom Javascript-->
+
+<!--begin::Custom Javascript-->
+<script src="assets/js/custom/change-status.js"></script>
+<script src="assets/js/custom/change-image.js"></script>
+<script src="assets/js/custom/file-upload.js"></script>
+<script src="assets/js/custom/formToggle.js"></script>
+<script src="assets/js/custom/notification-message.js"></script>
+<!--end::Custom Javascript-->
+
+<script type="text/javascript">
+  jQuery(document).ready(function () {
+    var url = window.location;
+    jQuery('div.menu-sub a[href="' + url + '"]').addClass('active');
+    jQuery('div.menu-sub a').filter(function () {
+      return this.href == url;
+    }).addClass('active');
+    jQuery('a.active').parent().addClass("test");
+    jQuery('div.test').parent().parent().addClass("show here");
+
+    jQuery('div.menu-item a[href="' + url + '"]').addClass('active');
+    jQuery('div.menu-item a').filter(function () {
+      return this.href == url;
+    }).addClass('active');
+
+  });
+</script>
+
+<script>
+  $('#kt_docs_repeater_basic').repeater({
+    initEmpty: false,
+
+    defaultValues: {
+      'text-input': 'foo'
+    },
+
+    show: function () {
+      $(this).slideDown();
+
+      // Re-init select2
+      $(this).find('[data-kt-repeater="select2"]').select2();
+
+    },
+
+    hide: function (deleteElement) {
+      $(this).slideUp(deleteElement);
+    },
+
+    ready: function () {
+      // Init select2
+      $('[data-kt-repeater="select2"]').select2();
+    }
+  });
+</script>
+
+<script>
+  $("#kt_datepicker_3").flatpickr({
+    enableTime: true,
+    noCalendar: true,
+    dateFormat: "h:i K", 
+  });
+
+  $("#kt_datepicker_4").flatpickr({
+    enableTime: true,
+    noCalendar: true,
+    dateFormat: "h:i K",
+
+  });
+  $("#kt_datepicker_1").flatpickr({
+    altInput: true,
+    altFormat: "F j, Y",
+    dateFormat: "Y-m-d",
+  });
+  $("#kt_datepicker_2").flatpickr({
+    altInput: true,
+    altFormat: "F j, Y",
+    dateFormat: "Y-m-d",
+  });
+  $("#kt_datepicker_5").flatpickr({
+    altInput: true,
+    altFormat: "F j, Y",
+    dateFormat: "Y-m-d",
+    minDate: "today"
+  });
+  $("#kt_datepicker_6").flatpickr({
+    altInput: true,
+    altFormat: "F j, Y",
+    dateFormat: "Y-m-d",
+    minDate: "today"
+  });
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var modal = document.getElementById('kt_modal_no_access');
+    if (modal) {
+      modal.addEventListener('show.bs.modal', function (event) {
+        var button = event.relatedTarget; // Button that triggered the modal
+        var message = button.getAttribute('data-message'); // Extract message from data attribute
+        var modalMessage = document.getElementById('modal-message');
+        modalMessage.innerHTML = message; // Set the message in the modal
+      });
+    }
+
+  });
+</script>
+
+</body>
+<!--end::Body-->
+
+</html>
