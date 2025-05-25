@@ -1,14 +1,13 @@
 {
-    "type": "service_account",
-    "project_id": "event-management-app-19995",
-    "private_key_id": "f9685668e7a0c016348bd60c410e0afbc2a0219d",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCepxzdPhCTySmT\notJkl0WpelUNoG1nfc2n6p4XW7hgdi6VtS3nybEUyEKAjlpUIhwX+5tGj/+iCpdn\nHGOIkEeGtT0UJTrMsyQOZg/9+dSeJ96xeofhBJAdfit5HsX5mLkK3RuUToqrDDve\no3Z1OZVD4Ft6zQgz+EB7pcdhhuRoMcoZl0v+xYSIURlCZOu5x1d6AGLI04aGk03y\nWwPD/MzuQljGKJ2E1IPM8YSgqsiDQBplMobQ9+ryxCnslLqb+JqQKSbYGqmkuEyB\nMUhYNYdWmu3YAUVxrTn1R+4vOUNONTUbgrmSPy3v3Lcb252AkwGMMVmq17mbu6GA\nOXn057/fAgMBAAECggEAH2lHyjgBETmJTU016auXo8PwNgf20UAzqRTHIynKOfL8\nKzDZe2RP9qTloc1Nbg3o0QjER/a3rq35JvWUcVPbjXyxsJzkZOXs9BrZ/LdrlLqh\nGTOA1pjQLb6uvcbNfKrzrAZ18OmSA+aireRgTjpN5sfzZL9Wae+zWKfMb29FJqmw\nrl4ktH5XGZ3GllMo5/bta389/42uPblbc1COPuc1GWyEVtY1IyuhzUIreGr0jmEb\nGwvSzGYedB35XcxmlrcBvfaEH2yHc7BZvPb8ADHyxEtOgxS66gy60fRoskAVBdv7\nFzmMoO/F0QLXHbqSObyGO274ORwl3pYepp7+9Ag5nQKBgQDgVab180z2+29HtkUe\n1+zABVvS5eQun6zOp07rmoOgckGZ4js9NWghLVARis60PUfNpS/V2Sp5fZY+H05J\ndaHKliL1seBSKXaRmR75ksG3xE35+QvahRRrZ+zc2Aj9QI6ZE30aI5wlGCAE2KnG\nlXgaWb8w/45NAlN3DYgP3k8F0wKBgQC1DAsvv0ZUZRSPDBCpynfE1b+ISOc9FONM\nMLzjn4kYbUC5JF9pxd+5cgG8HMQ3hfgc2AXPxWzFh8GRK0fqAB8HMzmJSsEJk0V9\ncWTs9XSKpEhW+XDTYubmE3FUWUEyN2sHBTKogg14W6pEOEpatI7YFcjtExiYGSA/\nRIr4U9VaRQKBgQDZ3lVoSAJXW5mXa811Rv8G/i1PhTU2kpyhlptu9YEgMdbEPJKL\nv3KBxiAc6VIWee1iKytp5J77npxreLvvW+7lcSpCs53ILbyZarxKZdz9PAj+3IBG\nmThbl3LSiH0yd6AFyoeU+0CKRgPSsRkxY7hg3whv7cGlyLyGwv2Ba8YTQQKBgHVI\nWwrQVyge3wWX5EeJ0LKjYVNRHvNzz5cwz3yJgc9gHxiQ1np34+mHUFZjMD1jvQo6\navFgzIjd2+hF6G1PLMqGRZSJ56ljTRXpWl8i1x9lMzOcnZlirX+IQtdIhrKYMe43\nUMzWixFYGGHfMVO3Of4DhskFoN4PENPLfFdIP6MdAoGBALt29kAaXBYRKYqgDDmV\nIjIQR0MY1QdicPBag1qOYuP/zeBBsAEYnz9YcQ+Dey2ukOMSWVcKP3tSvQkmvIdM\noeOPJ0gAcFLS1gzfH1ajjmaDvQaf1+yw5QuhWzZg+BefpUkFTQ7ofEsZrKTcEcFd\nhatkjDEpNaCtDIxB5xL9/rfU\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-29jjr@event-management-app-19995.iam.gserviceaccount.com",
-    "client_id": "100054307786370903508",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-29jjr%40event-management-app-19995.iam.gserviceaccount.com",
-    "universe_domain": "googleapis.com"
-  }
-  
+  "type": "service_account",
+  "project_id": "event-management-app-1e0a1",
+  "private_key_id": "630ee49241d4acbf341290bb8bb3d07c82f1e49f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1BZNKB9a1Mjte\nUBpIkizZF47eSDUdJA5WpBeIPCfG93Kt9l2SdV27bZp2B2mFT1ywNhOIjUgAfvdk\nS/e8XmFylffKEcW2wQXzXS+uM52pSLQy3gYsyh5ToxIYqQ+2Ys2Llrnc2Ku9Ca6r\ngI7TGLkgTLaU6JL4lTWtjTSPvDzV4uvdUnluuEWZ6tJQDarqZv/6126AmmitDv/D\nCN4ZtM5x/VJeXBrpWZkL+tt8z2NagoH2rKB/w+AI3I0YGQOYGsYKzFtOIeh0pBMH\ne5G3hrdzPjLcIaI1AMqOKUVWhCLeE2rl1lfxLI8cUlDnNYplzucrckXR1zu8GdAI\nbG+C64lLAgMBAAECggEADZ8XR71SQz096WlmqOpS9J0Is6JEWOaDK7LaUHaSWa76\nEqwUu3YYcQec1V/WaWEg7OOM0bwr3FmxfPsYb7S8aXZueGag9ZENxRPQiC+7H+do\nI+HAHjOxV4LQVEm4dHV32Rak8sDdH3LwkVgxpyHXoF4VaRwdHxZ/PQmAmIZGH6P8\nx6sAg0t9UhxMCzTXJUU657ToPmr36ZBNqLbvGlFjDzEZBRWwvvtR05ofnOx2eNY9\nNvfOFaL5glZkNEOXE+0iqeP7pnz1eF6OMpYGPM3ooaWdFCRYL8SkJxEOuaj/RJ4N\nvlTZJRU3J6D3E1K5DxwxoE0MbdtLT3S8CdIy/DKkCQKBgQDe/N1pD8wY9heW4+8Y\nksGzbc3WQwsjGcZoKuLg2H+BiRKHwDTwGpB7lhBO87qqD55dPQdyam1mbZ1wzH0i\n1C4rZ5KJQLmAsZbwyUejAcTQuNknYCohiqG3aUeUKohU6KDto3FQoc505Z0344N7\nR6HNiiVbn/8qsJnzdf2he30FowKBgQDP0jgPFWPmycrDOMkHmp4Zp8FqLanv3ki1\n24zcWxzHXT3xNEuQ1ItZyRScoCAmUQF4eR5dK3mPNhOooRC8/2dD+HTXZpXoWtaY\n+4Lsqxuot6F1MCeOKBVQJ6XgD/CluL8QxVyew7UycDgB0jVtKeUc7TzI0huyvDqP\neyNp8xoYOQKBgGc1CFGBQ0jmViK7msV333lpwBSEcVosqt05xEqnSdStmcsFFjtv\nQCJDYYb5XhMqKXUkMxcs1TfMUkuMCfsd08S5KmSmdXVwPNlzf9mdjvfAJpoH81gU\n7yaR7tRQH0uVZC65MFBOo90NDYh5oDhl/ijA4OuYkSS0Gn1JxjuAiWwbAoGAOMsk\nUsrvsER5Svybw543kp9Lti6ggFLo3/oN9rJXnQwYP3ChLgVHx9Ox9FO2NYJxunCv\nIZsd70tB+BV8M4pAuEyP8cWxNfyNJOWnE/J27pawYwwz4x+FI5CSPjdc9o0UegrV\nkvW88PnF9Ilz3E9Us6EJuX/h3eiewFNQjEXJXdECgYEAi9Y3V5pL2CG6MR6ztxEp\ns+XzhvvcQPD8xx/FH1h5+KYJ1/GTC8+ZlIjpSc3y6YMGKKjJXHJHj5d3544mBnDR\njcz5f4dOB18RQr83hSrQPohQc4mVxtAWzrdQYLcQoIHcuQuMKpSJ9R2Y8EKZiWfX\nfeCXbeXNkW8GeoXllPmAArs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@event-management-app-1e0a1.iam.gserviceaccount.com",
+  "client_id": "110670884103424338029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40event-management-app-1e0a1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
